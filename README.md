@@ -4,4 +4,4 @@ Cara Menjalankan Kode
 3.Run
 4.Mantap
 
-<img src="AlgoritmaBinarySearch.png">
+![Binary Search](AlgoritmaBinarySearch.png)
