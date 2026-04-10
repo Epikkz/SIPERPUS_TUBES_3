@@ -4,3 +4,4 @@ Cara Menjalankan Kode
 3.Run
 4.Mantap
 
+<img src="Algoritma Binary Search.png">
